@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "First Test",
+      "description": "Ma Stream",
+      "id": 1
+    },
+    {
+      "title": "Ma brotha",
+      "description": "Hello brotha",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Some Stream",
+      "id": 3
+    },
+    {
+      "title": "I created this Stream 2",
+      "description": "This was made by me 2",
+      "id": 4
+    },
+    {
+      "title": "Hello World!",
+      "description": "Ma description Brotha",
+      "userId": "103824048310129232433",
+      "id": 5
+    }
+  ]
+}
